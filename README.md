@@ -3,6 +3,9 @@
 An n8n automation workflow that reads financial PDF reports, extracts key metrics using AI, and generates a fully interactive HTML dashboard — all in one click.
 
 ---
+![Dashboard Preview](dashboard-preview.png)
+<img width="1920" height="894" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/fc2522a5-2dcf-43f7-8a58-442c6122a9b8" />
+---
 
 ## 🚀 What It Does
 
